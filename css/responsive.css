@@ -1,0 +1,470 @@
+    @media (max-width:1700.98px) {
+        .banner_wrepper {
+            padding: 60px 0px;
+        }
+        .banner_row .banner_col2 {
+            padding: 30px;
+        }
+        .banner_row .banner_col2 .form-control {
+            margin-bottom: 20px;
+            font-size: 25px;
+            line-height: 26px;
+        }
+        .remember_me {
+            font-size: 14px;
+        }
+        .d-flex.justify-content-between.align-items-center span {
+            font-size: 14px;
+            line-height: 19px;
+        }
+        .d-flex.justify-content-between.align-items-center {
+            margin-bottom: 15px;
+        }
+        .banner_row .banner_col2 .btn-info {
+            border-radius: 50px;
+            line-height: 50px;
+            font-size: 20px;
+            margin-bottom: 30px;
+        }
+        .banner_row .banner_col2 p {
+            font-size: 16px;
+            line-height: 28px;
+        }
+        .own_avatar h1 {
+            font-size: 40px;
+            line-height: 50px;
+            margin-bottom: 30px;
+            color: #FFFFFF;
+        }
+        .own_avatar p {
+            font-size: 25px;
+            margin: auto;
+            margin-bottom: 40px;
+            line-height: 30px;
+        }
+        .own_avatar .btn-primary {
+            line-height: 50px;
+            font-size: 20px;
+        }
+        header .navbar-expand-lg .navbar-nav .nav-link {
+            font-size: 14px;
+            line-height: 20px;
+            color: #fff;
+        }
+        header .navbar-expand-lg .navbar-nav .nav-link img {
+            display: block;
+            height: 25px;
+            margin-bottom: 5px;
+        }
+        header .navbar-brand img {
+            width: 200px;
+        }
+        .profile_banner {
+            padding: 170px 0px 100px;
+        }
+        .profile_banner .profile_col1 h2 {
+            font-size: 20px;
+            line-height: 30px;
+            padding: 20px 20px;
+        }
+        .profile_banner .profile_col2 h2 {
+            font-size: 20px;
+            line-height: 30px;
+            padding: 0px 0px 20px;
+        }
+        .profile_banner .profile_col2 {
+            padding: 20px 20px 0px 20px;
+            border-radius: 10px;
+        }
+        .forum_row {
+            border-radius: 10px;
+            padding: 10px;
+            margin-bottom: 15px;
+        }
+        .friends_wrepp .friends_col {
+            border-radius: 10px;
+            padding: 15px;
+        }
+        .friends_wrepp .friends_col h2 {
+            font-weight: 300;
+            font-size: 20px;
+            line-height: 30px;
+            color: #FFFFFF;
+            margin-bottom: 15px;
+        }
+        .frinds_box {
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 15px;
+        }
+        .frinds_box h3 {
+            font-size: 16px;
+            line-height: 20px;
+            color: #FFFFFF;
+        }
+        .frinds_box h4 span {
+            font-size: 17px;
+            line-height: 22px;
+        }
+        .arrowbox {
+            bottom: -10px;
+        }
+        .norequests {
+            font-size: 25px;
+            line-height: 35px;
+        }
+        .blns_box .blns_inner_col2 h4 {
+            font-size: 20px;
+            line-height: 30px;
+        }
+        .blns_box .blns_inner_col2 .btn-primary {
+            line-height: 50px;
+            font-size: 20px;
+            margin-top: 20px;
+        }
+        .invanimg img {
+            width: 100px;
+            margin: auto;
+            display: block;
+        }
+        .game_banner .game_box1 h2 {
+            font-size: 25px;
+            line-height: 32px;
+            margin-bottom: 20px;
+        }
+        .game_banner .game_box1 .btn-info {
+            background: #5FDBA7;
+            line-height: 50px;
+            font-size: 20px;
+        }
+        .game_box2 h3 {
+            font-size: 40px;
+            line-height: 50px;
+        }
+        .featured_col2 .btn-primary {
+            line-height: 50px;
+            font-size: 20px;
+            margin-top: 10px;
+        }
+        .featured_col1 {
+            box-sizing: border-box;
+            border-radius: 10px;
+            padding: 20px;
+        }
+        .featured_col1 h2 {
+            font-size: 25px;
+            margin-bottom: 15px;
+        }
+        .activebox2 span {
+            font-size: 16px;
+            line-height: 28px;
+        }
+        .game_banner_image {
+            margin-top: 115px;
+            text-align: center;
+        }
+        .featured_wrepp.fourm_wrep {
+            margin-top: 120px;
+            padding: 45px 0 75px;
+        }
+        .theme_row .themebox1 {
+            border-radius: 10px;
+            padding: 10px;
+        }
+        .theme_row .themebox2 .view a {
+            line-height: 40px;
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        .theme_row .themebox2 .save a {
+            line-height: 40px;
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        .featured_wrepp.avatar {
+            margin-top: 120px;
+            padding: 45px 0 75px;
+        }
+        .gameimg {
+            margin-bottom: 10px;
+        }
+        .featured_col2 h2 {
+            font-size: 25px;
+            line-height: 35px;
+            margin-bottom: 15px;
+        }
+        .location p {
+            font-weight: normal;
+            font-size: 25px;
+            line-height: 30px;
+            color: #FFFFFF;
+            padding-left: 10px;
+        }
+        .activebox1 p {
+            font-size: 18px;
+            line-height: 24px;
+        }
+        .activebox1 p span {
+            font-size: 16px;
+            line-height: 24px;
+        }
+        .featured_col2 {
+            border-radius: 10px;
+        }
+        .activebox1 {
+            border-radius: 10px;
+        }
+        .activebox2 a {
+            border-radius: 10px;
+        }
+        .profile_banner .profile_col1 {
+            border-radius: 10px;
+            ;
+        }
+    }
+    
+    @media (max-width:991.98px) {
+        .own_avatar {
+            text-align: center;
+        }
+        .own_avatar h1 {
+            font-size: 30px;
+            line-height: 40px;
+        }
+        .own_avatar .btn-primary {
+            margin-bottom: 20px;
+        }
+        footer {
+            background: #000;
+            padding: 30px;
+            text-align: center;
+        }
+        footer ul {
+            max-width: 300px;
+            margin: 20px auto 0px;
+        }
+        footer h2 {
+            margin-top: 20px;
+        }
+        header .navbar-brand img {
+            width: 200px;
+            position: absolute;
+            left: 50%;
+            top: 20px;
+            transform: translateX(-50%);
+        }
+        header .navbar {
+            background: #000000;
+            padding: 20px;
+        }
+        .game_banner_image {
+            margin-top: 80px;
+            text-align: center;
+        }
+        .game_banner .game_box1 h2 {
+            font-size: 20px;
+            line-height: 25px;
+            margin-bottom: 20px;
+        }
+        .game_box2 h3 {
+            font-size: 25px;
+            line-height: 30px;
+        }
+        .game_banner {
+            margin-top: 0;
+            padding-bottom: 20px;
+        }
+        .gameimg {
+            margin-bottom: 10px;
+            text-align: center;
+        }
+        .featured_col1 {
+            margin-bottom: 20px;
+        }
+        .swiper.mySwiper3.swiper-initialized.swiper-horizontal.swiper-pointer-events {
+            padding-bottom: 45px;
+        }
+        .navbar-toggler img {
+            width: 40px;
+        }
+        .navbar-toggler {
+            padding: 0;
+        }
+        header .navbar-expand-lg .navbar-nav .nav-link {
+            padding: 10px;
+        }
+        header .navbar-expand-lg .navbar-nav .nav-link {
+            flex-direction: row;
+            align-items: center;
+            font-size: 18px;
+            line-height: 22px;
+        }
+        header .navbar-expand-lg .navbar-nav .nav-link img {
+            margin-right: 10px;
+        }
+        .profile_banner .profile_col1 {
+            background: #000000;
+            border: 3px solid #FFFFFF;
+            margin-bottom: 30px;
+        }
+        .profile_banner {
+            padding: 120px 0px 80px;
+        }
+        .friends_wrepp .friends_col {
+            margin: 20px 0px;
+            height: auto;
+        }
+        .friends_wrepp {
+            padding: 30px 0px;
+        }
+        .featured_wrepp.fourm_wrep {
+            margin-top: 80px;
+            padding: 45px 0 75px;
+        }
+        .swip5 {
+            display: block;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .swip5 .theme_row.me-4 {
+            margin-right: 0 !important;
+            margin-bottom: 20px;
+        }
+        .footerlogo img {
+            max-width: 260px;
+        }
+        .featured_wrepp.avatar {
+            margin-top: 80px;
+        }
+        .own_avatar p {
+            font-size: 20px;
+            margin: auto;
+            margin-top: auto;
+            margin-bottom: auto;
+            margin-bottom: 20px;
+            line-height: 25px;
+            margin-top: 20px;
+        }
+    }
+    
+    @media (max-width:767.98px) {
+        .activebox1 p {
+            font-size: 18px;
+            line-height: 24px;
+            flex: 0 0 50%;
+        }
+        .activebox1 {
+            flex-wrap: wrap;
+        }
+        .activebox1 img {
+            max-width: 200px;
+            margin: auto;
+            margin-bottom: auto;
+            margin-bottom: 20px;
+        }
+        footer {
+            padding: 30px 10px;
+        }
+    }
+    
+    @media (max-width:575.98px) {
+        .game_banner_main {
+            display: block;
+        }
+        .game_banner .game_box1 .btn-info {
+            background: #5FDBA7;
+            line-height: 45px;
+            font-size: 15px;
+            margin-bottom: 20px;
+        }
+        .game_box2 h3 {
+            font-size: 20px;
+            line-height: 30px;
+            text-align: center;
+        }
+        .location img {
+            max-width: 60px;
+        }
+        .location p {
+            font-weight: normal;
+            font-size: 20px;
+            line-height: 25px;
+        }
+        .active_row {
+            display: block;
+        }
+        .activebox1 {
+            flex-wrap: wrap;
+            width: 100%;
+            margin-bottom: 20px;
+        }
+        .activebox2 {
+            width: 100%;
+            text-align: center;
+        }
+        header .navbar {
+            background: #000000;
+            padding: 20px 10px;
+        }
+        .navbar-toggler img {
+            width: 30px;
+        }
+        header .navbar-brand img {
+            width: 170px;
+        }
+        .banner_row {
+            display: block;
+        }
+        .banner_col1 {
+            text-align: center;
+        }
+        .banner_col1 img {
+            max-width: 270px;
+            margin-bottom: 20px;
+        }
+        .own_avatar {
+            padding: 0px 0px 50px;
+        }
+        .own_avatar h1 {
+            font-size: 25px;
+            line-height: 30px;
+        }
+        .profile_banner {
+            padding: 120px 0px 30px;
+        }
+        .blns_box {
+            display: block;
+            align-items: center;
+            text-align: center;
+        }
+        .blns_box .blns_inner_col1 {
+            width: 100%;
+            padding-right: 0px;
+        }
+        .blns_box .blns_inner_col2 {
+            width: 100%;
+        }
+        .blns_box .blns_inner_col2 .btn-primary {
+            line-height: 50px;
+            font-size: 14px;
+            margin-top: 20px;
+        }
+        .theme_row {
+            display: block;
+        }
+        .theme_row .themebox1 {
+            padding: 10px;
+            margin-right: 0;
+            width: 100%;
+        }
+        .theme_row .themebox2 {
+            width: 100%;
+            margin-top: 15px;
+        }
+        .featured_col1 .arrowbox {
+            max-width: 100%;
+        }
+        .featured_wrepp.fourm_wrep {
+            padding: 45px 0 25px;
+        }
+    }
